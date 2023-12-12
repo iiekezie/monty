@@ -128,12 +128,12 @@ The project involves the implementation of various opcodes for stack manipulatio
 | 12          | `12-pstr.c`      | Implement the `pstr` opcode.                                     | `void pstr(stack_t **stack, unsigned int line_number)`  |
 | 13          | `13-rotl.c`      | Implement the `rotl` opcode.                                     | `void rotl(stack_t **stack, unsigned int line_number)` |
 | 14          | `14-rotr.c`      | Implement the `rotr` opcode.                                     | `void rotr(stack_t **stack, unsigned int line_number)` |
-| 15          | `15-stack_queue.c` | Implement the `stack` and `queue` opcodes.                     | `void stack(stack_t **stack, unsigned int line_number)`<br
-
->`void queue(stack_t **stack, unsigned int line_number)` |
+| 15          | `15-stack_queue.c` | Implement the `stack` and `queue` opcodes.                     | `void stack(stack_t **stack, unsigned int line_number)` |
 | 16          | `1000-school.bf` | Brainf*ck script that prints "School" followed by a new line.   | |
 | 17          | `1001-add.bf`    | Brainf*ck script that adds two digits given by the user.        | |
 | 18          | `1002-mul.bf`    | Brainf*ck script that multiplies two digits given by the user.  | |
 | 19          | `1003-mul.bf`    | Brainf*ck script that multiplies two digits and prints the result followed by a new line. | |
 
-**Author**: Ifeanyi I Ekezie ([iiekezie](https://github.com/iiekezie))
+## Author :black_nib:
+
+* **Ifeanyi I Ekezie** <[iiekezie](https://github.com/iiekezie)>
